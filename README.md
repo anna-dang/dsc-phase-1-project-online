@@ -1,6 +1,3 @@
-```python
-
-```
 Flatiron Data Science Program
 Module 1 Project
 
@@ -23,39 +20,27 @@ September 11, 2020
 
 *A look into the film industry’s domestic performance.*
 
-Microsoft is interested in starting a film studio. They are looking for data supported insight into what types of films they should produce. For this objective, I will investigate which films perform the best at the box office. For this analysis, best = most profitable.
+My client, Microsoft, is interested in starting a new film production studio. They are looking for data supported insight into what types of films they should produce. For this objective, I will investigate which films perform the best at the box office. For this analysis, best = most profitable.
 
 ### Data
 
-The following data being used for this project:
+The following data was used for this project:
 Studio information from IMDB from 2010-2018 containing studio name, title, domestic and foreign gross in USD.
 
----
-### Methods
+I scrubbed the data of duplicates, missing values and broke apart or merged tables to create the "Clean Data" available in this repo.
 
-Describe the process for analyzing or modeling the data. For Phase 1, this will be descriptive analysis.
 
-Questions to consider:
+#### 1) Which studios are the domestic leaders?
+![Jazz Hands](./Images/showbiz.gif)
 
-How did you prepare, analyze or model the data?
-Why is this approach appropriate given the data and the business problem?
-Results
+#### 2) What are their production numbers?
+![Jazz Hands](./Images/showbiz.gif)
 
-Present your key results. For Phase 1, this will be findings from your descriptive analysis.
+#### 3) What types of movies are they making?
+![Jazz Hands](./Images/showbiz.gif)
 
-Questions to consider:
-
-How do you interpret the results?
-How confident are you that your results would generalize beyond the data you have?
-Here is an example of how to embed images from your sub-folder:
-
-## 1) Which studios are the domestic leaders?
-
-## 2) What are their production numbers?
-
-## 3) What types of movies are they making?
-
-## 4) Does release date effect box office success ?
+#### 4) Does release date effect box office success ?
+![Jazz Hands](./Images/showbiz.gif)
 
 
 ---
@@ -68,7 +53,7 @@ Action, Adventure, Comedy, and Drama were the most utilized descriptors for the 
 
 Movies released in summer (June, July, August) or for have the greatest ROI.
 
----
+
 ### Questions to Consider
 
 
@@ -78,8 +63,6 @@ Beyond genre – what are the effects of these factors in driving attendance: re
 
 What is profit/ROI relationship to genre? 
 
----
 ### Thank you for viewing my project!
 
-Please review the full analysis in my [Jupyter Notebook](./notebook.pdf) or view my [presentation.](./presentation.pdf)
-
+Please review the full analysis in my [Jupyter Notebook](./notebook.pdf) or view my presentation as [sides](./presentation.pdf) or [video]().
