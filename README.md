@@ -1,77 +1,68 @@
-```python
+Flatiron Data Science Program
+Module 1 Project
 
-```
-Description of data
-•		Explain repo to visitors
-•		Summary of project and contents TECHNICAL!
-•				What you did and WHY
-•				Key visuals with their conclusions
-				1) findings/conclusions
-				2) recommendation/insight
-•		Links to presentation and slides
-•		Link to other pages in notebook
+September 11, 2020
+
+---
+
+# *Microsoft Goes to The Movies*
+
+*Bill, Melinda... thank you for inviting me into your home!*
+
+*Why yes, of course I'll stay for dinner. But first, let me sing you a song about SHOWBIZ!*
 
 
-Title
+![Jazz Hands](./Images/showbiz.gif)
 
-Authors: Student1, Student2
+---
 
-Overview
+### Overview
 
-A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.
+*A look into the film industry’s domestic performance.*
 
-Business Problem
+My client, Microsoft, is interested in starting a new film production studio. They are looking for data supported insight into what types of films they should produce. For this objective, I will investigate which films perform the best at the box office. For this analysis, best = most profitable.
 
-Summary of the business problem you are trying to solve, and the data questions that you plan to answer in order to solve them.
+### Data
 
-Questions to consider:
+The following data was used for this project:
+Studio information from IMDB from 2010-2018 containing studio name, title, domestic and foreign gross in USD.
 
-What are the business's pain points related to this project?
-How did you pick the data analysis question(s) that you did?
-Why are these questions important from a business perspective?
-Data
+I scrubbed the data of duplicates, missing values and broke apart or merged tables to create the "Clean Data" available in this repo.
 
-Describe the data being used for this project.
 
-Questions to consider:
+#### 1) Which studios are the domestic leaders?
+![Jazz Hands](./Images/showbiz.gif)
 
-Where did the data come from, and how do they relate to the data analysis questions?
-What do the data represent? Who is in the sample and what variables are included?
-What is the target variable?
-What are the properties of the variables you intend to use?
-Methods
+#### 2) What are their production numbers?
+![Jazz Hands](./Images/showbiz.gif)
 
-Describe the process for analyzing or modeling the data. For Phase 1, this will be descriptive analysis.
+#### 3) What types of movies are they making?
+![Jazz Hands](./Images/showbiz.gif)
 
-Questions to consider:
+#### 4) Does release date effect box office success ?
+![Jazz Hands](./Images/showbiz.gif)
 
-How did you prepare, analyze or model the data?
-Why is this approach appropriate given the data and the business problem?
-Results
 
-Present your key results. For Phase 1, this will be findings from your descriptive analysis.
+---
+### Conclusions
 
-Questions to consider:
 
-How do you interpret the results?
-How confident are you that your results would generalize beyond the data you have?
-Here is an example of how to embed images from your sub-folder:
+The industry is dominated by the large, well established producers creating between 8 and 21 titles per year.
 
-Visual 1
+Action, Adventure, Comedy, and Drama were the most utilized descriptors for the movies from these studios.
 
-graph1
+Movies released in summer (June, July, August) or for have the greatest ROI.
 
-Conclusions
 
-Provide your conclusions about the work you've done, including any limitations or next steps.
+### Questions to Consider
 
-Questions to consider:
 
-What would you recommend the business do as a result of this work?
-What are some reasons why your analysis might not fully solve the business problem?
-What else could you do in the future to improve this project?
-For More Information
+Will competing directly in the most populous areas be more likely to lead to success, or are those areas too saturated?
 
-Please review our full analysis in our Jupyter Notebook or our presentation.
+Beyond genre – what are the effects of these factors in driving attendance: remakes, sequels/franchises, based on books/other media, talent - cast/crew.
 
-For any additional questions, please contact name & email, name & email
+What is profit/ROI relationship to genre? 
+
+### Thank you for viewing my project!
+
+Please review the full analysis in my [Jupyter Notebook](./notebook.pdf) or view my presentation as [sides](./presentation.pdf) or [video]().
