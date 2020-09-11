@@ -31,16 +31,16 @@ I scrubbed the data of duplicates, missing values and broke apart or merged tabl
 
 
 #### 1) Which studios are the domestic leaders?
-![Jazz Hands](./Images/showbiz.gif)
+![Top ten grossing studios](./Images/top_10.png)
 
 #### 2) What are their production numbers?
-![Jazz Hands](./Images/showbiz.gif)
+![production numbers across years](./Images/prod_nums.png)
 
 #### 3) What types of movies are they making?
-![Jazz Hands](./Images/showbiz.gif)
+![heat map of genre count](./Images/genre_count.gif)
 
 #### 4) Does release date effect box office success ?
-![Jazz Hands](./Images/showbiz.gif)
+![heatmap of monthly average finances](./Images/money_month.png)
 
 
 ---
