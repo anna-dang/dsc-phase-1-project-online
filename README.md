@@ -30,7 +30,7 @@ Studio information from 2010-2018 containing studio name, title, domestic and fo
 Movie information with genres was combined with a table of ratings. 
 
 I scrubbed the data of duplicates, missing values and broke apart or merged tables to create the "Clean Data" available in this repo.
-Please see my [cleaning notebook](./Clean Data/DataCleaning.ipynb) for methodology and cleaning process.
+Please see my [cleaning notebook](./CleanData/DataCleaning.ipynb) for methodology and cleaning process.
 
 
 #### 1) Which studios are the domestic leaders?
