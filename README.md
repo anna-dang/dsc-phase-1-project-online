@@ -20,7 +20,7 @@ September 11, 2020
 
 *A look into the film industry’s domestic performance.*
 
-My client, Microsoft, is interested in starting a new film production studio. They are looking for data supported insight into what types of films they should produce. For this objective, I will investigate which films perform the best at the box office. For this analysis, best = most profitable.
+My client, Microsoft, is interested in starting a new film production studio. They are looking for data supported insight into what types of films they should produce. For this objective, I will investigate which films perform the best at the box office. For this analysis, best = greatest Return on Investment (ROI).
 
 ### Data
 
@@ -66,7 +66,7 @@ The industry is dominated by the large, well established producers creating betw
 
 Action, Adventure, Comedy, and Drama were the most utilized descriptors for the movies from these studios.
 
-Movies released in summer (June, July, August) or for have the greatest ROI.
+Movies released in summer (June, July, August) have the greatest ROI.
 
 
 ### Questions to Consider
